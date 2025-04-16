@@ -1,3 +1,13 @@
+#fuel_data_cleaner.py
+#Name: Tonkinese - Alisha Siddiqui and Leah Radcliffe
+#email: siddiqas@mail.uc.edu and radclilr@mail.uc.edu
+#Assignment Number:Assignment 11
+#Due Date: 04/17/2025
+#Course/Section: IS
+#Semester/Year: Spring 2025
+#Brief description of mmodule: This module involves data cleaning and then the clean data and 
+# the outliers are saved to specified files, with a completion message confirming the process.
+#Citations: zipcodebase.com 
 import csv
 import os
 import requests
